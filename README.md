@@ -5,3 +5,6 @@ Only information available in this repo is the overview of how it could be done,
 Again, these technologies are public and should be used with due diligence.
 
 PS: It is practically not possible because one has to analyse >200k frames, and tesseract.js would cause issues as well while performing OCR.
+
+
+DM me on @aashishkodes on twitter if any issue arises.
